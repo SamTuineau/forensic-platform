@@ -61,3 +61,13 @@ When a task is completed:
 
 Example:
 - [x] Implement directory scanner (2026-02-25 commit abc123)
+
+When completing a task:
+
+1. Implement feature
+2. Commit code
+3. Update checkbox with date and commit id
+
+Example:
+
+- [x] Implement directory scanner (2026-02-25 commit 4f2c1a)
